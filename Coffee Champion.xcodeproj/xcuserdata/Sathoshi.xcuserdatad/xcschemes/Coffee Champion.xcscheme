@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "98F695A21CADFD37001347CA"
+               BlueprintIdentifier = "98F696181CAE1CDE001347CA"
                BuildableName = "Coffee Champion.app"
                BlueprintName = "Coffee Champion"
                ReferencedContainer = "container:Coffee Champion.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "98F695B61CADFD38001347CA"
+               BlueprintIdentifier = "98F6962C1CAE1CDE001347CA"
                BuildableName = "Coffee ChampionTests.xctest"
                BlueprintName = "Coffee ChampionTests"
                ReferencedContainer = "container:Coffee Champion.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "98F695C11CADFD38001347CA"
+               BlueprintIdentifier = "98F696371CAE1CDE001347CA"
                BuildableName = "Coffee ChampionUITests.xctest"
                BlueprintName = "Coffee ChampionUITests"
                ReferencedContainer = "container:Coffee Champion.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "98F695A21CADFD37001347CA"
+            BlueprintIdentifier = "98F696181CAE1CDE001347CA"
             BuildableName = "Coffee Champion.app"
             BlueprintName = "Coffee Champion"
             ReferencedContainer = "container:Coffee Champion.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "98F695A21CADFD37001347CA"
+            BlueprintIdentifier = "98F696181CAE1CDE001347CA"
             BuildableName = "Coffee Champion.app"
             BlueprintName = "Coffee Champion"
             ReferencedContainer = "container:Coffee Champion.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "98F695A21CADFD37001347CA"
+            BlueprintIdentifier = "98F696181CAE1CDE001347CA"
             BuildableName = "Coffee Champion.app"
             BlueprintName = "Coffee Champion"
             ReferencedContainer = "container:Coffee Champion.xcodeproj">

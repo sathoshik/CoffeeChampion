@@ -4,25 +4,25 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Coffee Champion.xcscheme</key>
+		<key>Alamofire.xcscheme</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>0</integer>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Coffee Champion.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>98F696181CAE1CDE001347CA</key>
+		<key>79C040AFDDCE1BCBF6D8B5EB0B85887F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>98F6962C1CAE1CDE001347CA</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>98F696371CAE1CDE001347CA</key>
+		<key>F45242416919FD5EE1018B047E3A733B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
