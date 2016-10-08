@@ -74,8 +74,6 @@ class LoginViewController: UIViewController {
         
         //Dismiss the login view
         
-        
-        
     }
     
     //diplay alert function
@@ -155,20 +153,3 @@ class LoginViewController: UIViewController {
     }
  
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
