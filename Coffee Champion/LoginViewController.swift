@@ -1,4 +1,3 @@
-//
 //  LoginViewController.swift
 //  Coffee Champion
 //
@@ -71,9 +70,6 @@ class LoginViewController: UIViewController {
                 print(error);
             }
         };
-        
-        //Dismiss the login view
-        
     }
     
     //diplay alert function
@@ -92,9 +88,6 @@ class LoginViewController: UIViewController {
     
     
     func ValidateUserNameDB(username:String,completionHandler:(Int?,NSError?) -> Void){
-        
-        
-        
         
         //Construct Json Data
         
@@ -124,7 +117,6 @@ class LoginViewController: UIViewController {
                 return
             }
             
-            
             do{
                 
                 var json = try NSJSONSerialization.JSONObjectWithData(data!, options: .MutableContainers) as? NSDictionary;
@@ -136,20 +128,14 @@ class LoginViewController: UIViewController {
                     
                     completionHandler(returnValue,nil)
                     return
-                    
                 }
             }
             catch let error as NSError{
                 print("something went wrong");
                 completionHandler(nil,error)
             }
-            
-        
-        
         }
         
         task.resume()
-    
     }
- 
 }
