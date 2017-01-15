@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		981530C61CCB14D300CD229E /* Animate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 981530C51CCB14D300CD229E /* Animate.swift */; };
+		9834ECD81CCD6A39006ADB96 /* KDCircularProgress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9834ECD71CCD6A39006ADB96 /* KDCircularProgress.swift */; };
 		98BF559E1CAF5C140067504F /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98BF559D1CAF5C140067504F /* LoginViewController.swift */; };
 		98F6961D1CAE1CDE001347CA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98F6961C1CAE1CDE001347CA /* AppDelegate.swift */; };
 		98F6961F1CAE1CDE001347CA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98F6961E1CAE1CDE001347CA /* ViewController.swift */; };
@@ -41,6 +42,7 @@
 		28DF576DCF865C56CA68C65E /* Pods_Coffee_Champion.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Coffee_Champion.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		303747B808CB31B68E604777 /* Pods-Coffee Champion.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Coffee Champion.release.xcconfig"; path = "Pods/Target Support Files/Pods-Coffee Champion/Pods-Coffee Champion.release.xcconfig"; sourceTree = "<group>"; };
 		981530C51CCB14D300CD229E /* Animate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Animate.swift; sourceTree = "<group>"; };
+		9834ECD71CCD6A39006ADB96 /* KDCircularProgress.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KDCircularProgress.swift; sourceTree = "<group>"; };
 		98BF559D1CAF5C140067504F /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		98F696191CAE1CDE001347CA /* Coffee Champion.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Coffee Champion.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		98F6961C1CAE1CDE001347CA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -116,6 +118,7 @@
 		98F6961B1CAE1CDE001347CA /* Coffee Champion */ = {
 			isa = PBXGroup;
 			children = (
+				9834ECD71CCD6A39006ADB96 /* KDCircularProgress.swift */,
 				98F6961C1CAE1CDE001347CA /* AppDelegate.swift */,
 				98F6961E1CAE1CDE001347CA /* ViewController.swift */,
 				98F696201CAE1CDE001347CA /* Main.storyboard */,
@@ -341,6 +344,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				98BF559E1CAF5C140067504F /* LoginViewController.swift in Sources */,
+				9834ECD81CCD6A39006ADB96 /* KDCircularProgress.swift in Sources */,
 				98F6961F1CAE1CDE001347CA /* ViewController.swift in Sources */,
 				98F6961D1CAE1CDE001347CA /* AppDelegate.swift in Sources */,
 				981530C61CCB14D300CD229E /* Animate.swift in Sources */,
